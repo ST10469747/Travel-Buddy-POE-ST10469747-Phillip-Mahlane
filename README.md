@@ -7,4 +7,4 @@
 4. Array storage - all menu items are saved in a javascrpt array
 
 Link to video - 
-Link to repository - 
+Link to repository - https://github.com/ST10469747/Travel-Buddy-POE-ST10469747-Phillip-Mahlane.git
