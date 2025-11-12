@@ -1,13 +1,5 @@
 import React, { useState } from 'react';
-import {
-  View,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  StyleSheet,
-  ScrollView,
-  Alert,
-} from 'react-native';
+import {View, Text, TextInput,TouchableOpacity,StyleSheet,ScrollView,Alert,} from 'react-native';
 
 type MenuItem = { name: string; price: number; category: string };
 
